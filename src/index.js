@@ -8,7 +8,7 @@ import { renderCardItems } from './markup';
 export const API_KEY = '31904814-f4bcbbfe75d97904192d1a917';
 export const perPage = 40;
 let page = 1;
-
+// ;;;
 const refs = {
   form: document.querySelector('.search-form'),
   galleryContainer: document.querySelector('.gallery'),
